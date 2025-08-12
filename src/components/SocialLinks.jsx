@@ -6,9 +6,9 @@ import { MdDarkMode } from "react-icons/md";
 import { MdOutlineLightMode } from "react-icons/md";
 import { useDarkMode } from "../context/DarkModeContext";
 const SocialLinks = () => {
-  const linkedinUrl = "https://www.linkedin.com/in/avinashs46/";
-  const githubUrl = "https://github.com/avinashsingh108";
-  const twitterUrl = "https://x.com/_Avi108_";
+  const linkedinUrl = "https://www.linkedin.com/in/satyanshu-satyam-442b61280/";
+  const githubUrl = "https://github.com/SatyanshuSatyam";
+  const twitterUrl = "https://x.com/Satyanshu_Satym";
   const { darkMode, toggleMode } = useDarkMode();
   
   const handleClick = (url) => {
